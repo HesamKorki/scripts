@@ -22,14 +22,7 @@ exit
 ```
 
 ```bash
-vim start-jupyter.sh
-```
-
-Copy the following code block into a file called start-jupyter.sh:
-exit the vim session
-
-```bash
-:wq
+curl -L https://raw.githubusercontent.com/HesamKorki/scripts/main/jupyter-on-slurm/start-jupyter.sh -o start-jupyter.sh
 ```
 
 Make the file executable:
