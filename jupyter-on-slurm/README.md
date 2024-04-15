@@ -21,6 +21,8 @@ exit the interactive shell:
 exit
 ```
 
+Download the script from this repository:
+
 ```bash
 curl -L https://raw.githubusercontent.com/HesamKorki/scripts/main/jupyter-on-slurm/start-jupyter.sh -o start-jupyter.sh
 ```
